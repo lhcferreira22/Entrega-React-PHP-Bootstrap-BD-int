@@ -1,4 +1,3 @@
-import Home from '../../Pages/Home';
 import './Home.css';
 
 export default function Principal() {
